@@ -2,7 +2,7 @@ import React from 'react';
 import { Row, Col, Typography, List, Tag, Table, Empty } from 'antd';
 import { CheckCircleTwoTone, CloseCircleTwoTone } from '@ant-design/icons';
 
-const { Title, Text } = Typography;
+const { Title } = Typography;
 
 interface OverviewProps {
   data: any;
